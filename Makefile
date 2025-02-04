@@ -41,3 +41,4 @@ success-message:
 
 fixtures-load:
 	$(DC_RUN) bin/console doctrine:fixtures:load
+
